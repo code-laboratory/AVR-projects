@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:56B8AAC0
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:6 "min -> R5"
+NODE:V LEVEL:0 LINE:7 "sec -> R4"
+NODE:V LEVEL:0 LINE:8 "mode -> R7"
+NODE:V LEVEL:0 LINE:9 "output -> RAM:????"
+NODE:F LEVEL:0 LINE:11 "decrement_time(void)"
+NODE:F LEVEL:0 LINE:23 "increment_time(void)"
+NODE:F LEVEL:0 LINE:33 "main(void)"
