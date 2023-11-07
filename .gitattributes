@@ -1,1 +1,3 @@
 *.perl linguist-vendored=false
+*.* linguist-language=C
+
